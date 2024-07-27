@@ -1,0 +1,30 @@
+cd Documents/node_project
+cd Documents/
+cd express_project
+code .
+npm init -y
+npm i express
+npm i --save-dev nodemon
+clear
+npm run devStart
+npm install ejs
+npm run devStart
+git tag -a express_v1 -m "Express in Nodejs 1 - v1.0:  Go to  https://medium.com/jungletronics/backend-with-express-js-framework-3ea4b49f2610" -m "0- Project Setup;" -m "1- Basic Routing;" -m "2- Sending Data;" -m "3- Rendering HTML" -m "4- Advanced Routing" -m "5- Chaining routes" -m "Thank you for downloading this project 😘️👌️👋️😍️"
+git push origin express_v1
+clear
+git checkout -b middle
+git branck --list
+git branch --list
+npm run devStart
+git tag -a express_v2 -m "Express in Nodejs 2 - v2.0:  Go to  https://medium.com/jungletronics/backend-with-express-js-middleware-eeb56bf63aff" -m "0- What is middleware?" -m "1- server.js Implementation;" -m "2- Logger Middleware;" -m "3- Authentication Middleware" -m "4- Using Middleware in the Application" -m "5- Testing w curl or RESTED" -m "Thank you for downloading this project 😘️👌️��️😍️"
+git push origin express_v2
+git checkou master
+git checkout master
+git pull
+curl -H "Authorization: secret-token" http://localhost:3000/users/1
+curl -X POST -H "Authorization: secret-token" http://localhost:3000/users/1
+curl -X PUT -H "Authorization: secret-token" http://localhost:3000/users/1
+curl -X DELETE -H "Authorization: secret-token" http://localhost:3000/users/1
+curl -X DELETE -H "Authorization: secret-token" http://localhost:3000/users/1
+curl --manual | grep -A 5 ' -H, --header'
+clear
