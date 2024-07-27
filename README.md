@@ -32,9 +32,9 @@ If you’re building a backend using JavaScript, then chances are you’re going
 
 Follow this tutorial's 👉 [Express Series](https://medium.com/jungletronics/backend-with-express-js-framework-3ea4b49f2610)
 
-1#ExpressSeries -  Building a Backend with Express.js — [Part 1](https://medium.com/jungletronics/backend-with-express-js-framework-3ea4b49f2610)
+1#ExpressSeries -  Building a Backend with Express.js — [Part 1](https://medium.com/jungletronics/backend-with-express-js-framework-3ea4b49f2610) - [video]{https://youtu.be/7uqwsSgdyMc?feature=shared}
 
-2#ExpressSeries - Backend With Express.js Middleware — [Part 2](https://medium.com/jungletronics/backend-with-express-js-middleware-eeb56bf63aff)
+2#ExpressSeries - Backend With Express.js Middleware — [Part 2](https://medium.com/jungletronics/backend-with-express-js-middleware-eeb56bf63aff) - [video](https://youtu.be/dPROSI2HCzI?feature=shared)
     
 ## License
 
